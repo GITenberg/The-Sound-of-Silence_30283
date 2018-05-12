@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '34490'
     url: http://www.gutenberg.org/2009/agents/34490
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30283#The-Sound-of-Silence
 gutenberg_bookshelf:
 - Science Fiction by Women
 - Science Fiction
