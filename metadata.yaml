@@ -1,0 +1,40 @@
+_repo: The-Sound-of-Silence_30283
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schelling, George
+    aliases:
+    - Schelling
+    - Schelling, George Luther
+    - Schelling, George L.
+    birthdate: 1938
+    gutenberg_agent_id: '25425'
+    url: http://www.gutenberg.org/2009/agents/25425
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Constant, Barbara
+    gutenberg_agent_id: '34490'
+    url: http://www.gutenberg.org/2009/agents/34490
+description: ''
+gutenberg_bookshelf:
+- Science Fiction by Women
+- Science Fiction
+gutenberg_issued: '2009-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30283'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Telepathy -- Fiction'
+- !lcsh 'Parapsychology -- Fiction'
+- !lcsh 'Short stories'
+title: The Sound of Silence
+url: http://www.gutenberg.org/ebooks/30283
